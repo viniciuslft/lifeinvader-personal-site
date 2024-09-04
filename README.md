@@ -15,13 +15,16 @@ A aplicação é inspirada na apresentação de Jay Norris, do LifeInvader, e ut
 ### Bibliotecas e Frameworks: (adicionados via CDN)
 - <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery logo"/></a>
     <img width="12" />
+- <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo"/></a>
+    <img width="12" />
 - <a href="https://axios-http.com/ptbr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="30" alt="Axios logo"/></a> 
     <img width="18" />
 - <a href="https://fontawesome.com/icons" target="_blank"><img src="https://static-00.iconduck.com/assets.00/font-awesome-icon-1024x1024-n1norbzq.png" height="30" alt="FontAwesome logo"/> </a>
-<img width="12" />
+    <img width="12" />
 
 ## Por que essas tecnologias foram utilizadas?
 - **jQuery (versão 3.7.1)**: Escolhido por sua facilidade de uso e ampla compatibilidade com navegadores. jQuery simplifica a manipulação do DOM, eventos, animações e operações AJAX, tornando-o uma escolha prática para criar uma interface de usuário interativa.
+- **Bootstrap (versão 5.x)**: Utilizado para criar um layout responsivo e estilizado rapidamente, aproveitando seus componentes e plugins pré-construídos para uma melhor experiência do usuário.
 - **Axios**: Usado para realizar requisições HTTP de forma simples e eficiente, permitindo fácil integração com APIs externas, caso seja necessário expandir as funcionalidades do site.
 - **FontAwesome**: Utilizado para incorporar ícones estilizados que melhoram a experiência do usuário e tornam a interface mais atraente.
 
