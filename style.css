@@ -61,7 +61,7 @@ section {
 }
 
 header {
-  background-image: url(img/img-header.png);
+  background-image: url(assets/img-header.png);
   color: black;
   background-color: white;
   padding: 1.25rem;
